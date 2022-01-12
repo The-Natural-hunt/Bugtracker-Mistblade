@@ -1,0 +1,5 @@
+Description: Jandice Barov in Scholomance (Heroic) is currently not phasing out of her Whirl of Illusion phase https://mop-shoot.tauri.hu/?npc=11439
+
+Current behaviour: When the correct illusion is killed, the phase doesn't end, resulting in damage being caused to the group and the encounter only ending when all illusions are killed or waiting for a long time. 
+
+Expected behaviour: When the correct illusion has been killed the phase ends and Jandice appears to be killed again. 
